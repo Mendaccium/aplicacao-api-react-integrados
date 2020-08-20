@@ -1,0 +1,6 @@
+[submodule "desafio-conceitos-nodejs"]
+	path = desafio-conceitos-nodejs
+	url = https://github.com/Mendaccium/desafio-conceitos-nodejs.git
+[submodule "desafio-conceitos-reactjs"]
+	path = desafio-conceitos-reactjs
+	url = https://github.com/Mendaccium/desafio-conceitos-reactjs.git
