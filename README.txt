@@ -1,0 +1,2 @@
+For the application to work, we must have yarn installed and run with the yarn dev command the back-end and the front-end, the back-end is required
+be up and running because that's where the API is contained, with both running we can use localhost: 3000 to enjoy the application!
